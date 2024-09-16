@@ -12,9 +12,9 @@ def is_enabled(value, default):
         return default
 
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '243101'))
-API_HASH = environ.get('API_HASH', 'ede32d490a0fad5469866dedf8a95')
-BOT_TOKEN = environ.get('BOT_TOKEN', '7084913AFen9aOsSLvxshiMPg091DwjsN2tzBQC2g')
+API_ID = int(environ.get('API_ID', '17466918'))
+API_HASH = environ.get('API_HASH', '1fe3105c1f92121262e6157648dd5eb0)
+BOT_TOKEN = environ.get('BOT_TOKEN', '7279657366:AAG4w7IY9OAGcqJTuVrKCbsE5ZnX1C8ZYwo)
 
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://13dudd3duddududdu@cluster0.dvpxim9.mongodb.net/?retryWrites=true&w=majority")
 DATABASE_NAME = environ.get('DATABASE_NAME', "data")
