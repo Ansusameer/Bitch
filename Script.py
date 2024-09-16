@@ -81,7 +81,7 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
- <a href="https://telegram.me/HEROFLiX"><b><i>{file_name}</i></b></a>"""
+ <a href="https://t.me/AvaflixOfficial"><b><i>{file_name}</i></b></a>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
@@ -93,11 +93,11 @@ IMDb Data:
 ⏱️ Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
     
-    ALL_FILTERS = """🔆彡[ @HEROFLiX ]彡🔆"""
+    ALL_FILTERS = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
     
-    GFILTER_TXT = """🔆彡[ @HEROFLiX ]彡🔆"""
+    GFILTER_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
     
-    FILE_STORE_TXT = """🔆彡[ @HEROFLiX ]彡🔆"""
+    FILE_STORE_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 
