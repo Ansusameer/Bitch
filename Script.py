@@ -42,34 +42,34 @@ Nᴀᴍᴇ - {}"""
 
     I_CUDNT = """<b><i>💢 Sorry – It’s Not Available❗️
 
-⚠️ The Reason❓[<a href="https://telegram.me/HeroFlixx/3">Click Here</a>]
+⚠️ The Reason❓[<a href="https://t.me/Avaflixx/8">Click Here</a>]
 🗨 Please Follow Request Tips!
-🔆 Request Tips ➔ [<a href="https://telegram.me/HeroFlixx/2">Click Here</a>]</i></b>"""
+🔆 Request Tips ➔ [<a href="https://t.me/Avaflixx/7">Click Here</a>]</i></b>"""
 
 
     I_CUD_NT = """<b><i>💢 Sorry – It’s Not Available❗️
 
-⚠️ The Reason❓[<a href="https://telegram.me/HeroFlixx/3">Click Here</a>]
+⚠️ The Reason❓[<a href="https://t.me/Avaflixx/8">Click Here</a>]
 🗨 Please Follow Request Tips!
-🔆 Request Tips ➔ [<a href="https://telegram.me/HeroFlixx/2">Click Here</a>]</i></b>"""
+🔆 Request Tips ➔ [<a href="https://t.me/Avaflixx/7">Click Here</a>]</i></b>"""
 
     MVE_NT_FND = """<b><i>💢 Sorry – It’s Not Available❗️
 
-⚠️ The Reason❓[<a href="https://telegram.me/HeroFlixx/3">Click Here</a>]
+⚠️ The Reason❓[<a href="https://t.me/Avaflixx/8">Click Here</a>]
 🗨 Please Follow Request Tips!
-🔆 Request Tips ➔ [<a href="https://telegram.me/HeroFlixx/2">Click Here</a>]</i></b>"""
+🔆 Request Tips ➔ [<a href="https://t.me/Avaflixx/7">Click Here</a>]</i></b>"""
 
-    TOP_ALRT_MSG = """🔆彡[ @HEROFLiX ]彡🔆"""
+    TOP_ALRT_MSG = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
 
-    MELCOW_ENG = """<b><i>🔆 "HEROFLiX • GROUP" 亗 🔆
+    MELCOW_ENG = """<b><i>🔆 "AVAFLiX • GROUP" 亗 🔆
 •───────────────────• 
 ⚜Hey {}, Welcome To HEROFlix • Group. You Can Request Any Movies, Web-Series, Anime, K-Dramas, Animation etc., here....</i></b>"""
 
-    SHORTLINK_INFO = """🔆彡[ @HEROFLiX ]彡🔆"""
+    SHORTLINK_INFO = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
 
-    REQINFO = """🔆彡[ @HEROFLiX ]彡🔆"""
+    REQINFO = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
 
-    SINFO = """🔆彡[ @HEROFLiX ]彡🔆"""
+    SINFO = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
 
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
