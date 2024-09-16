@@ -2,20 +2,20 @@ class script(object):
     START_TXT = """<i><b>🎃 Helo {}, I'm <a href=https://telegram.me/{}>{}</a></i></b> \n\n<i><b>🔅 I Can Provide You Any Movies, Web-Series, Anime, K-Dramas, Animation, etc!</i></b>"""
     
     
-    HELP_TXT = """🔆彡[ @HEROFLiX ]彡🔆"""
+    HELP_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
 
-    ABOUT_TXT = """🔆彡[ @HEROFLiX ]彡🔆"""
+    ABOUT_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
 
-    SOURCE_TXT = """🔆彡[ @HEROFLiX ]彡🔆"""
-    MANUELFILTER_TXT = """🔆彡[ @HEROFLiX ]彡🔆"""
+    SOURCE_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
+    MANUELFILTER_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
 
-    BUTTON_TXT = """🔆彡[ @HEROFLiX ]彡🔆"""
+    BUTTON_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
 
-    AUTOFILTER_TXT = """🔆彡[ @HEROFLiX ]彡🔆"""
+    AUTOFILTER_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
 
-    CONNECTION_TXT = """🔆彡[ @HEROFLiX ]彡🔆"""
-    EXTRAMOD_TXT = """🔆彡[ @HEROFLiX ]彡🔆"""
-    ADMIN_TXT = """🔆彡[ @HEROFLiX ]彡🔆"""
+    CONNECTION_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
+    EXTRAMOD_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
+    ADMIN_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
 
     STATUS_TXT = """<b>★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
 ★ Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
