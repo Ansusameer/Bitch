@@ -21,7 +21,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "data")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'ase')
 
 
-DWLD = environ.get("DWLD", 'HeroFlixx/8')
+DWLD = environ.get("DWLD", 'AvaFlixx/9')
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
 
