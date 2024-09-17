@@ -26,7 +26,7 @@ async def ban_reply(bot, message):
 @Client.on_message(filters.group & disabled_group & filters.incoming)
 async def grp_bd(bot, message):
     buttons = [[
-        InlineKeyboardButton('Support', url=f'https://t.me/MOVIES_PROVIDE2')
+        InlineKeyboardButton('Support', url=f'https://t.me/Xx_Ansu')
     ]]
     reply_markup=InlineKeyboardMarkup(buttons)
     vazha = await db.get_chat(message.chat.id)
