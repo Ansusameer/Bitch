@@ -7,6 +7,7 @@ class script(object):
     ABOUT_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
 
     SOURCE_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
+    
     MANUELFILTER_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
 
     BUTTON_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
@@ -14,7 +15,9 @@ class script(object):
     AUTOFILTER_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
 
     CONNECTION_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
+    
     EXTRAMOD_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
+    
     ADMIN_TXT = """🔆彡[ @AVAFLiXOfficial ]彡🔆"""
 
     STATUS_TXT = """<b>★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
